@@ -4,7 +4,7 @@ Projeto desenvolvido durante a **Next Level Week - Copa** da Rocketseat. A propo
 
 ## 📸 Preview
 
-![Calendário da Copa](assets/copa-preview.png)  
+![Calendário da Copa](./copa-preview.png)  
 
 ## 🚀 Tecnologias Utilizadas
 
